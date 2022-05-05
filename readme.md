@@ -1,6 +1,6 @@
 # Simple GraphQL Server using ASP.Net Core
 
-Step to create project
+These steps used to create the project
 
 ```
 dotnet new web -o SimpleGraphQLDotNet
